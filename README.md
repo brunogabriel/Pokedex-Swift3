@@ -4,6 +4,13 @@ A very simple example using Swift 3 and consuming pokeapi.co to produce a very s
 
 Thank you Nintendo by produce a good game (Pokemon) since 1996, pokecoapi and devslopes course.
 
+## Requirements
+
+This project is structured by using some basic libraries and tools:
+	- Cocoapods
+	- Alamofire
+	- SwiftyJSON
+
 Showcase
 ---
 <p align="center">
