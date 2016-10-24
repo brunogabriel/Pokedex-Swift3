@@ -7,6 +7,6 @@ Thank you Nintendo by produce a good game (Pokemon) since 1996, pokecoapi and de
 Showcase
 ---
 <p align="center">
-  <img src="Screenshot/screen_home.png" align="center" width=200>
-  <img src="Screenshot/screen_detail.png" align="center" width=200>
+  <img src="Screenshot/screen_home.png" width=200>
+  <img src="Screenshot/screen_detail.png" width=200>
 </p>
